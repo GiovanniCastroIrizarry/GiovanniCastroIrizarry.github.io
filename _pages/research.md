@@ -1,10 +1,9 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /research/
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /rsearch.html
 ---
 
 
