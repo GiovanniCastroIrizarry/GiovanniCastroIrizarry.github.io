@@ -18,16 +18,5 @@ main:
     url: http://castroirizarry.com/cv.pdf
     target: _blank
     
-  - title: "Portfolio"
+  - title: "Contact"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-
-    
-  # - title: "CV"
-  #   url: http://castroirizarry.com/cv.pdf
-    
-  - title: "Guide"
-    url: /markdown/
