@@ -24,8 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: http://castroirizarry.com/cv.pdf
-    html: '<a href="/cv.pdf" target="_blank">CV</a>'
+    html: '<a href="http://castroirizarry.com/cv.pdf" target="_blank">CV</a>'
     
   # - title: "CV"
   #   url: http://castroirizarry.com/cv.pdf
