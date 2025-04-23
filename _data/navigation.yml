@@ -25,6 +25,7 @@ main:
     
   - title: "CV"
     url: http://castroirizarry.com/cv.pdf
+    html: '<a href="/cv.pdf" target="_blank">CV</a>'
     
   # - title: "CV"
   #   url: http://castroirizarry.com/cv.pdf
