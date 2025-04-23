@@ -6,13 +6,10 @@ redirect_from:
   - /contact.html
 ---
 
-##Contact Information
+## Contact Information
 
-Department of Political Science
-
-University of California
-
+Department of Political Science  
+University of California  
 Bunche 4268
-
 
 Email: giovannicastro@ucla.edu
