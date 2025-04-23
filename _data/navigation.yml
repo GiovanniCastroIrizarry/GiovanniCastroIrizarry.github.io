@@ -8,6 +8,22 @@
 #      Markdown formatted page while the second is generated using JSON.
 # About Research Teaching CV Contact
 main:
+
+  - title: "About"
+    url: /publications/
+
+  - title: "Research"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/ 
+
+ - title: "CV"
+    url: https://www.castroirizarry.com/cv.pdf
+
+ - title: "Contact"
+    url: /teaching/ 
+    
   - title: "Publications"
     url: /publications/
 
@@ -22,9 +38,6 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: https://www.castroirizarry.com/cv.pdf
     
   # - title: "CV"
   #   url: /cv-json/
