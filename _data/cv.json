@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Giovanni Castro Irizarry",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=hiRVcpQAAAAJ&hl=es&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-0565-1059"
       },
       {
         "network": "GitHub",
@@ -66,18 +66,14 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "The Influence of Country of Origin in the Process of Party Identification Acquisition",
+      "publisher": "Journal of Race, Ethnicity, and Politics",
+      "website": "https://doi.org/10.1017/rep.2023.34",
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence From a Preregistered Audit Experiment",
+      "publisher": "Journal of Race, Ethnicity, and Politics",
+      "website": "https://doi.org/10.1017/rep.2024.25",
     },
     {
       "name": "Paper Title Number 3",
