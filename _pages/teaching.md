@@ -1,29 +1,42 @@
 ---
-permalink: /research/
+permalink: /teaching/
 author_profile: true
 redirect_from: 
   - /md/
-  - /rsearch.html
+  - /teaching.html
 ---
 
+## Teaching
+***"Giovanni was absolutely incredible! It became clear very early in the quarter how much knowledge Giovanni had regarding the different demographics we studied, and I really enjoyed him providing a unique perspective each week during section. He was extremely responsive with emails and communicated well regarding assignments, grading, or changes with the course. Overall, Giovanni was amazing, and was really resonated with me was how well he understood the course material, and was able to lead a very informative and analytical discussion every week."***
 
+***"I thought Giovanni was very intelligent and knowledgeable about the course material. He had an answer to every question presented in the discussion sections and provided extra information for us to have all of the time. I enjoyed having him as a T.A. and feel his sections helped benefit me in the course. I don't feel there were any weaknesses in his teaching and I would take a lecture he taught if given the opportunity."***
 
-## Peer Reviewed Articles
+***"He genuinely wants students to understand the material. He will stay with the student for as long as is needed for them to understand the material. He demonstrated thorough knowledge of the course itself and simplified the course concepts for students to be able to understand."***
 
-Castro Irizarry, Giovanni (2024). Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence from a Pre-Registered Audit Experiment.” *The Journal of Race, Ethnicity, and Politics* 9, no. 3: 488–511. [doi.org/10.1017/rep.2024.25](https://doi.org/10.1017/rep.2024.25)
+***"Giovanni was a very knowledgeable TA who presented an informed perspective on Latino politics. Section was always interesting and I always learned something new!"***
 
-* Pre-registration [here](https://doi.org/10.17605/OSF.IO/SXF4D).
+***"Giovanni has been a really great TA. His explanations of topics in sections frequently cleared up aspects that had confused me, and he helped communicate the importance of political science and what we are learning. I really enjoyed his discussions! Thank you!"***
 
-* Spanish translation [here](https://doi.org/10.31235/osf.io/8tcn4).
+## Courses
+# University of California, Los Angeles
+Experiments in Racial and Ethnic Politics, *Teaching Associate*
+Professor Efrén Pérez
 
-* Covered in  [News is my Business](https://newsismybusiness.com/report-puerto-rican-homebuyers-face-discrimination-in-local-housing-market/).
+National Institutions: The Presidency, *Teaching Associate*
+Professor James Scott
 
-Castro Irizarry, Giovanni (2024). The Influence of Country of Origin in the Process of Party Identification Acquisition.” *The Journal of Race, Ethnicity, and Politics* 9, no. 1: 80–98. [doi.org/10.1017/rep.2023.34](https://doi.org/10.1017/rep.2023.34)
+U.S. Latino Politics, *Teaching Associate*
+Professor Izul de la Vega
 
-## Working Papers
+Arms Control and International Security, *Teaching Assistant*
+Professor Barry O'Neill
 
-Latinos’ Racial Identity and What It Means for Political Behavior. (Under Review).
+Introduction to American Politics, *Teaching Assistant*
+Professor Chris Tausanovitch
 
-Leaving the Latino Tag Behind: How Some Latinos are Incorporating into Whiteness.
+Politics and Strategy (Game Theory), *Teaching Assistant*
+Professor Barry O'Neill
 
-A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. With Fernando Tormos-Aponte.
+# The Pennsylvania State University
+Introduction to American Government, *Teaching Assistant* (4 semesters)
+Professors Mark Major (*x1*) and Amy Sentementes (*x3*)
