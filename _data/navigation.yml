@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv.pdf
+    url: https://www.castroirizarry.com/cv.pdf
     
   # - title: "CV"
   #   url: /cv-json/
