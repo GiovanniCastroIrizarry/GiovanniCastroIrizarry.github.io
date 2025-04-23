@@ -15,7 +15,8 @@ redirect_from:
 
 ### ***"Giovanni was a very knowledgeable TA who presented an informed perspective on Latino politics. Section was always interesting and I always learned something new!"***
 
-### ***"Giovanni has been a really great TA. His explanations of topics in sections frequently cleared up aspects that had confused me, and he helped communicate the importance of political science and what we are learning. I really enjoyed his discussions! Thank you!"***
+### ***"Giovanni has been a really great TA. His explanations of topics in sections frequently cleared up aspects that had confused me, and he helped communicate the importance of political science and what we are learning. I really enjoyed his discussions! Thank you!"***    
+
 
 # Courses
 ## University of California, Los Angeles
