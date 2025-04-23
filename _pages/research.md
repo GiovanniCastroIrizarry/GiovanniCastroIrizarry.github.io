@@ -6,6 +6,7 @@ redirect_from:
   - /rsearch.html
 ---
 
+## Peer Reviewed Articles
 
 Castro Irizarry, Giovanni (2024). Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence from a Pre-Registered Audit Experiment.” *The Journal of Race, Ethnicity, and Politics* 9, no. 3: 488–511. [doi.org/10.1017/rep.2024.25](https://doi.org/10.1017/rep.2024.25)
 
