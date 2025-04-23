@@ -27,7 +27,7 @@ main:
     url: /cv/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv.pdf/
     
   - title: "Guide"
     url: /markdown/
