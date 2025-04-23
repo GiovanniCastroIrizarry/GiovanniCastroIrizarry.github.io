@@ -6,8 +6,7 @@ redirect_from:
   - /rsearch.html
 ---
 
-<a href="www.castroirizarry.com/cv.pdf" class="btn btn-primary" target="_blank">Download CV</a>
-
+<a href="http://castroirizarry.com/cv.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#ffffff; text-decoration:none; border-radius:5px;">CV</a>
 
 ## Peer Reviewed Articles
 
