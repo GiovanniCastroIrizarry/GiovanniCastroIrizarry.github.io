@@ -27,7 +27,7 @@ main:
     url: /cv/
     
   # - title: "CV"
-  #   url: /cv.pdf/
+  #   url: http://castroirizarry.com/cv.pdf
     
   - title: "Guide"
     url: /markdown/
