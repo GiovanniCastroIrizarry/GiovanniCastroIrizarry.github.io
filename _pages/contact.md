@@ -1,9 +1,9 @@
 ---
-permalink: /research/
+permalink: /contact/
 author_profile: true
 redirect_from: 
   - /md/
-  - /rsearch.html
+  - /contact.html
 ---
 
 
