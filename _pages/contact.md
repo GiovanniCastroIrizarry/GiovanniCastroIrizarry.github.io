@@ -6,10 +6,6 @@ redirect_from:
   - /contact.html
 ---
 
-
-
-## Contact Information
-
 Department of Political Science
 University of California, Los Angeles
 Bunche 4268
