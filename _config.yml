@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Giovanni Castro Irizarry"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Giovanni Castro Irizarry"
 description              : &description "personal description"
 url                      : "https://castroirizarry.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "GiovanniCastroIrizarry.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Ph.D Student in Political Science"
   employer         : "University of California, Los Angeles"
   uri              : # URL
