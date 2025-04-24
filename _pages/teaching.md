@@ -21,24 +21,24 @@ redirect_from:
 
 # Courses
 ## University of California, Los Angeles
-**Experiments in Racial and Ethnic Politics**, *Teaching Associate*  
+* **Experiments in Racial and Ethnic Politics**, *Teaching Associate*  
 Professor Efrén Pérez
 
-**National Institutions: The Presidency**, *Teaching Associate*  
+* **National Institutions: The Presidency**, *Teaching Associate*  
 Professor James Scott
 
-**U.S. Latino Politics**, *Teaching Associate*  
+* **U.S. Latino Politics**, *Teaching Associate*  
 Professor Izul de la Vega
 
-**Arms Control and International Security**, *Teaching Assistant*  
+* **Arms Control and International Security**, *Teaching Assistant*  
 Professor Barry O'Neill
 
-**Introduction to American Politics**, *Teaching Assistant*  
+* **Introduction to American Politics**, *Teaching Assistant*  
 Professor Chris Tausanovitch
 
-**Politics and Strategy (Game Theory)**, *Teaching Assistant*  
+* **Politics and Strategy (Game Theory)**, *Teaching Assistant*  
 Professor Barry O'Neill
 
-# The Pennsylvania State University
-**Introduction to American Government**, *Teaching Assistant* (4 semesters)  
+## The Pennsylvania State University
+* **Introduction to American Government**, *Teaching Assistant* (*4 semesters*)  
 Professors Mark Major (*x1*) and Amy Sentementes (*x3*)
