@@ -1,15 +1,14 @@
 ---
 permalink: /contact/
 author_profile: true
+title: "Contact Information"
 redirect_from: 
   - /md/
   - /contact.html
 ---
 
-# Contact Information
+**Department of Political Science**  
+**University of California**  
+**Bunche 4268**    
 
-#### Department of Political Science  
-#### University of California  
-#### Bunche 4268
-
-#### Email: giovannicastro@ucla.edu
+**Email:** giovannicastro@ucla.edu
