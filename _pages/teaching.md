@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /teaching.html
 ---
+#Teach
 
 ## "Giovanni was absolutely incredible! It became clear very early in the quarter how much knowledge Giovanni had regarding the different demographics we studied, and I really enjoyed him providing a unique perspective each week during section. He was extremely responsive with emails and communicated well regarding assignments, grading, or changes with the course. Overall, Giovanni was amazing, and was really resonated with me was how well he understood the course material, and was able to lead a very informative and analytical discussion every week."
 
