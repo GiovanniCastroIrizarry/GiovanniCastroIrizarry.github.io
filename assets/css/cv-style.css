@@ -7,11 +7,11 @@
   line-height: 1.6;
 }
 
-h2 {
+h1 {
   border-bottom: none;
 }
 
-h1 {
+h2 {
   border-bottom: none;
 }
 
@@ -21,6 +21,11 @@ h3 {
 
 h4 {
   border-bottom: none;
+}
+
+body {
+  background-color: #fdf6e3; // color de fondo personalizado
+  color: #333333;            // color de texto personalizado
 }
 
 /* Header Styles */
