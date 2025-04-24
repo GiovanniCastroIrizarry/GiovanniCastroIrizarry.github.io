@@ -23,9 +23,9 @@ repository               : "GiovanniCastroIrizarry.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  pronouns         : "He/Him"  
+  pronouns         : #  
   bio              : "Ph.D Student in Political Science"
-  employer         : "University of California, Los Angeles"
+  employer         : "<a href='https://www.ucla.edu/' target='_blank'>University of California, Los Angeles</a>"
   uri              : # URL
   email            : "giovannicastro@ucla.edu" 
 
