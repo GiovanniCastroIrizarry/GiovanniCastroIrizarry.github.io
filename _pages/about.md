@@ -37,3 +37,5 @@ The Pennsylvania State University
 
 **BA in Political Science, 2018**  
 University of Puerto Rico, Rio Piedras
+
+<i class="fas fa-envelope"></i>
