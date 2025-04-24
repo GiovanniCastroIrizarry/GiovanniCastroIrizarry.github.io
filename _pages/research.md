@@ -1,13 +1,13 @@
 ---
 permalink: /research/
 author_profile: true
-title: "Welcome!"
+title: "Published Articles"
 redirect_from: 
   - /md/
   - /rsearch.html
 ---
 
-# Published Articles
+<a href="http://castroirizarry.com/cv.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#ffffff; text-decoration:none; border-radius:5px;">Download CV</a>
 
 ### **Castro Irizarry, Giovanni** (2024). Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence from a Pre-Registered Audit Experiment.” *The Journal of Race, Ethnicity, and Politics* 9, no. 3: 488–511. [doi.org/10.1017/rep.2024.25](https://doi.org/10.1017/rep.2024.25)
 
@@ -27,4 +27,4 @@ redirect_from:
 
 #### A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. With Fernando Tormos-Aponte.
 
-<a href="http://castroirizarry.com/cv.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#ffffff; text-decoration:none; border-radius:5px;">CV</a>
+
