@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   pronouns         : #  
   bio              : "Ph.D Student in Political Science"
-  employer         : "<a href='https://www.ucla.edu/'>University of California, Los Angeles</a>"
+  employer         : "University of California, Los Angeles"
   uri              : # URL
   email            : "giovannicastro@ucla.edu" 
 
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "CastroIrizarry" # Username for X / Twitter
+  twitter          : "<a href='https://www.ucla.edu/' target='_blank'>University</a>" #"CastroIrizarry" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
