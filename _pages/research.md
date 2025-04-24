@@ -20,10 +20,10 @@ redirect_from:
 
 # Working Papers
 
-### Latinos’ Racial Identity and What It Means for Political Behavior. (Under Review).
+## Latinos’ Racial Identity and What It Means for Political Behavior. (Under Review).
 
-### Leaving the Latino Tag Behind: How Some Latinos are Incorporating into Whiteness.
+## Leaving the Latino Tag Behind: How Some Latinos are Incorporating into Whiteness.
 
-### A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. With Fernando Tormos-Aponte.
+## A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. With Fernando Tormos-Aponte.
 
 
