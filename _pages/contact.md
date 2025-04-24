@@ -11,4 +11,4 @@ redirect_from:
 **University of California**  
 **Bunche 4268**    
 
-**Email:** giovannicastro@ucla.edu
+**Email:** <giovannicastro@ucla.edu>
