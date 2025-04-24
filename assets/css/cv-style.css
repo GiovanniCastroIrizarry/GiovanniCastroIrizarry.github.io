@@ -7,6 +7,22 @@
   line-height: 1.6;
 }
 
+h2 {
+  border-bottom: none;
+}
+
+h1 {
+  border-bottom: none;
+}
+
+h3 {
+  border-bottom: none;
+}
+
+h4 {
+  border-bottom: none;
+}
+
 /* Header Styles */
 .cv-header {
   margin-bottom: 2rem;
