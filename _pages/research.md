@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 author_profile: true
+title: "Welcome!"
 redirect_from: 
   - /md/
   - /rsearch.html
