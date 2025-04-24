@@ -21,7 +21,7 @@ My dissertation uses this approach to study how intitutions influence racial het
 
 I hold a Master's Degree in Political Science from The Pennsylvania State University. I graduated from the University of Puerto Rico, Rio Piedras with a Bachelor’s Degree in Political Science. I have also studied discrimination patterns against Puerto Ricans in the real estate. My work has been published in *The Journal of Race, Ethnicity, and Politics*.  
 
-# Interests:
+# Interests
 * Race, Ethnicity, and Politics  
 * Latino Political Behavior  
 * Discrimination   
