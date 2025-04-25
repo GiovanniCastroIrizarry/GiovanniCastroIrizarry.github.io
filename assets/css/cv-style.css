@@ -233,4 +233,9 @@
     border: 1px solid #ccc;
     background-color: transparent;
   }
+
+  /* Cambiar color del ícono de Google Scholar */
+  .ai-google-scholar {
+    color: #007bff; /* Azul claro */
+}
 }
