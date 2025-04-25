@@ -41,4 +41,4 @@ Professor Barry O'Neill
 
 ## The Pennsylvania State University
 * **Introduction to American Government**, *Teaching Assistant* (*4 semesters*)  
-Professors Mark Major (*1 semester*) and Amy Sentementes (*3 semesters*)
+Professors Mark Major (*x1*) and Amy Sentementes (*x3*)
