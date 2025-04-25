@@ -10,9 +10,11 @@
 main:
   - title: "Research"
     url: /research/
+    class: "{% if page.url == '/research/' %}active{% endif %}"
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    class: "{% if page.url == '/research/' %}active{% endif %}"
 
   - title: "CV"
     url: http://castroirizarry.com/cv.pdf
@@ -20,6 +22,7 @@ main:
     
   - title: "Contact"
     url: /contact/
+    class: "{% if page.url == '/research/' %}active{% endif %}"
 
 
 
