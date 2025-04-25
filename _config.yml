@@ -23,6 +23,7 @@ repository               : "GiovanniCastroIrizarry.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
+  name             : "Giovanni Castro Irizarry"
   pronouns         : #  
   bio              : "Ph.D Student in Political Science"
   employer         : "University of California, Los Angeles"
@@ -129,7 +130,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @CastroIrizarry
 facebook:
   username               :
   app_id                 :
