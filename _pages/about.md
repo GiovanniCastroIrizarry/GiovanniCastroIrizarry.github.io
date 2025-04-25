@@ -15,11 +15,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D  Student in Political Science at the University of California, Los Angeles, with concentrations in Race, Ethnicity, and Politics, American Politics, and Methodology. My research analyzes how Latino's racial identification influences their political behavior and pathways to assimilation. I analyze survey data and develop experiments to study questions about ideology, party identification, candidate support, and racial discrimination.  
+I am a Ph.D  Student in Political Science at the University of California, Los Angeles, with concentrations in Race, Ethnicity, and Politics, American Politics, and Methodology. My research analyzes how Latinos’ racial identification influences their political attitudes, behavior, and pathways to assimilation. I analyze survey data and design experiments to study questions about ideology, party identification, candidate support, and racial discrimination.  
 
-My dissertation uses this approach to study how intitutions influence racial heterogeneity among Latinos in the United States and its implications for political attitudes and behaviors. I also study how a significant share of Latinos and their descendants are leaving their Latino identification behind and self-classifying as non-Hispanic white.  
+My dissertation applies this approach to study how intitutions influence racial heterogeneity among Latinos in the United States and its implications for political attitudes and behaviors. I also study how a significant share of Latinos and their descendants are leaving their Latino identification behind and self-classifying as non-Hispanic white, as well as the political implications of this shift.  
 
-I hold a Master's Degree in Political Science from The Pennsylvania State University. I graduated from the University of Puerto Rico, Rio Piedras with a Bachelor’s Degree in Political Science. I have also studied discrimination patterns against Puerto Ricans in the real estate. My work has been published in *The Journal of Race, Ethnicity, and Politics*.  
+I hold a Master's Degree in Political Science from The Pennsylvania State University. I graduated from the University of Puerto Rico, Rio Piedras with a Bachelor’s Degree in Political Science. I have also studied discrimination patterns against Puerto Ricans in the housing market. My work has been published in *The Journal of Race, Ethnicity, and Politics*.  
 
 # Interests
 * Race, Ethnicity, and Politics  
