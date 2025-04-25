@@ -8,7 +8,7 @@ defaults:
       author_profile: true
     
 permalink: /
-title: "Welcome!"
+title: "Giovanni Castro Irizarry"
 author_profile: true
 redirect_from: 
   - /about/
