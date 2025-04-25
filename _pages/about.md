@@ -19,7 +19,7 @@ I am a Ph.D  Student in Political Science at the University of California, Los A
 
 My dissertation applies this approach to study how intitutions influence racial heterogeneity among Latinos in the United States and its implications for political attitudes and behaviors. I also study how a significant share of Latinos and their descendants are leaving their Latino identification behind and self-classifying as non-Hispanic white, as well as the political implications of this shift.  
 
-I hold a Master's Degree in Political Science from The Pennsylvania State University. I graduated from the University of Puerto Rico, Rio Piedras with a Bachelor’s Degree in Political Science. I have also studied discrimination patterns against Puerto Ricans in the housing market. My work has been published in *The Journal of Race, Ethnicity, and Politics*.  
+I hold a Master's Degree in Political Science from The Pennsylvania State University. I graduated from the University of Puerto Rico, Rio Piedras with a Bachelor’s Degree in Political Science. I have also studied discrimination patterns against Puerto Ricans in the housing market. My articles have been published in *The Journal of Race, Ethnicity, and Politics*.  
 
 # Interests
 * Race, Ethnicity, and Politics  
