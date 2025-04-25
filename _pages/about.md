@@ -29,7 +29,7 @@ I hold a Master's Degree in Political Science from The Pennsylvania State Univer
 * Puerto Rican Politics  
 
 # Education  
-<i class="fas fa-graduation-cap"></i> **Ph.D in Political Science, *Expected 2026***  
+<i class="fas fa-google-scholar"></i> **Ph.D in Political Science, *Expected 2026***  
 University of California, Los Angeles
 
 <i class="fas fa-graduation-cap"></i> **MA in Political Science, 2020**  
