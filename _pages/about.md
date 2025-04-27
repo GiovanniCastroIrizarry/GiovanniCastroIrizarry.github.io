@@ -32,7 +32,8 @@ I hold a Master's Degree in Political Science from The Pennsylvania State Univer
 <i class="fas fa-graduation-cap"></i> **Ph.D in Political Science, *Expected 2026***  
 University of California, Los Angeles
 
-<i class="fas fa-graduation-cap"></i> **MA in Political Science, 2020**  
+<i class="fas fa-graduation-cap"></i> **<a href="http://castroirizarry.com/CeD.21J4-ALA6-G3Y7.pdf" target="_blank">MA</a>
+ in Political Science, 2020**  
 The Pennsylvania State University
 
 <i class="fas fa-graduation-cap"></i> **BA in Political Science, 2018**  
