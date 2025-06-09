@@ -15,7 +15,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D  Student in Political Science at the <a href="https://polisci.ucla.edu" target="_blank" style="color: #0000EE;">University of California, Los Angeles</a>, with concentrations in Race, Ethnicity, and Politics, American Politics, and Methodology. My research analyzes how Latinos’ racial identification influences their political attitudes, behavior, and pathways to incorporation. I analyze survey data and design experiments to study questions about ideology, party identification, candidate support, and racial discrimination.  
+I am a Ph.D  Candidate in Political Science at the <a href="https://polisci.ucla.edu" target="_blank" style="color: #0000EE;">University of California, Los Angeles</a>, with concentrations in Race, Ethnicity, and Politics, American Politics, and Methodology. My research analyzes how Latinos’ racial identification influences their political attitudes, behavior, and pathways to incorporation. I analyze survey data and design experiments to study questions about ideology, party identification, candidate support, and racial discrimination.  
 
 My dissertation applies this approach to study how intitutions influence racial heterogeneity among Latinos in the United States and its implications for political attitudes and behaviors. I also study how a significant share of Latinos and their descendants are leaving their Latino identification behind and self-classifying as non-Hispanic white, as well as the political implications of this shift.  
 
