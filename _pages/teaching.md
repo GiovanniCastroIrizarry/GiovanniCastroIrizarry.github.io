@@ -7,7 +7,6 @@ redirect_from:
   - /teaching.html
 ---
 
-# Courses
 ## University of California, Los Angeles
 * **Experiments in Racial and Ethnic Politics**, *Teaching Associate*  
 Professor Efrén Pérez
