@@ -20,7 +20,7 @@ redirect_from:
 
 # Working Papers
 
-Latinos’ Racial Identity and What It Means for Political Behavior. (Under Review).
+Latinos’ Racial Identity and What It Means for Political Behavior. (Revise and Resubmit, *Political Behavior*).
 
 Leaving the Latino Tag Behind: How Some Latinos are Incorporating into Whiteness.
 
