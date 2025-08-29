@@ -22,8 +22,9 @@ redirect_from:
 
 Latinos’ Racial Identity and What It Means for Political Behavior. (Revise and Resubmit, *Political Behavior*).
 
+A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. *Under Review*. With Fernando Tormos-Aponte.
+
 Leaving the Latino Tag Behind: How Some Latinos are Incorporating into Whiteness.
 
-A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. With Fernando Tormos-Aponte.
 
 
