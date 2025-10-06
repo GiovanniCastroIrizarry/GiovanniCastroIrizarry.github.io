@@ -20,9 +20,9 @@ redirect_from:
 
 # Working Papers
 
-Latinos’ Racial Identity and What It Means for Political Behavior. (Revise and Resubmit, *Political Behavior*).
+Latino Racial Classifications and Political Behavior: The Implications of Linked Fate Prioritization. (*Revise and Resubmit*, *Political Behavior*).
 
-A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. *Under Review*. With Fernando Tormos-Aponte.
+A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. (*Under Review*. With Fernando Tormos-Aponte).
 
 Leaving the Latino Tag Behind: How Some Latinos are Incorporating into Whiteness.
 
