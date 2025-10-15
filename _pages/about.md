@@ -24,8 +24,9 @@ I earned my MA in Political Science at <a href="https://polisci.la.psu.edu" targ
 # Interests
 * American Politics
 * Political Behavior
-* Race, Ethnicity, and Politics  
-* Latino Political Behavior   
+* Latino Politics
+* Race and Ethnicity Politics  
+* Discrimination
 
 # Education  
 <i class="fas fa-graduation-cap"></i> **Ph.D in Political Science, *Expected 2026***  
