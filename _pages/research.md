@@ -10,6 +10,8 @@ redirect_from:
 # Published Articles
 **Castro Irizarry, Giovanni** (2024). [Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence from a Pre-Registered Audit Experiment](https://doi.org/10.1017/rep.2024.25).” *The Journal of Race, Ethnicity, and Politics* 9, no. 3: 488–511.
 
+<a href="[https://polisci.ucla.edu](https://doi.org/10.1017/rep.2024.25)" target="_blank" style="color: #0000EE;">Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence from a Pre-Registered Audit Experiment</a>
+
 * Pre-registration [here](https://doi.org/10.17605/OSF.IO/SXF4D).
 
 * Spanish translation [here](https://doi.org/10.31235/osf.io/8tcn4).
