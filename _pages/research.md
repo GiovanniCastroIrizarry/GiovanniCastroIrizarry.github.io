@@ -18,6 +18,13 @@ redirect_from:
 
 **Castro Irizarry, Giovanni** (2024). The Influence of Country of Origin in the Process of Party Identification Acquisition.” *The Journal of Race, Ethnicity, and Politics* 9, no. 1: 80–98. [doi.org/10.1017/rep.2023.34](https://doi.org/10.1017/rep.2023.34)
 
+<iframe 
+    src="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7B260618E025E46AD8B9FCAFE33ADF1F/S205660852300034Xa.pdf/the-influence-of-country-of-origin-in-the-process-of-party-identification-acquisition.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border: none;">
+</iframe>
+
 # Working Papers
 
 Latino Racial Classifications and Political Behavior: The Implications of Linked Fate Prioritization. (*Revise and Resubmit*, *Political Behavior*).
