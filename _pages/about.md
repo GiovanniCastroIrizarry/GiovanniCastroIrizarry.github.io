@@ -19,7 +19,8 @@ Hello! I am a Ph.D  Candidate in Political Science at the <a href="https://polis
 
 My research analyzes how Latinos’ racial identification influences their political attitudes, behavior, and pathways to incorporation. I analyze survey data and design experiments to study questions about ideology, party identification, candidate support, and racial discrimination. My dissertation applies this approach to study how institutions influence racial heterogeneity among Latinos in the United States and its implications for political attitudes and behaviors. 
 
-I earned my MA in Political Science at <a href="https://polisci.la.psu.edu" target="_blank" style="color: #0000EE;">The Pennsylvania State University</a> and my BA in Political Science at the <a href="https://www.uprrp.edu/english/" target="_blank" style="color: #0000EE;">University of Puerto Rico, Rio Piedras</a>. I have also studied discrimination patterns against Puerto Ricans in the housing market in Puerto Rico. My articles have been published in *The Journal of Race, Ethnicity, and Politics*.  
+I earned my MA in Political Science at <a href="https://polisci.la.psu.edu" target="_blank" style="color: #0000EE;">The Pennsylvania State University</a> and my BA in Political Science at the <a href="https://www.uprrp.edu/english/" target="_blank" style="color: #0000EE;">University of Puerto Rico, Rio Piedras</a>. I have also studied discrimination patterns against Puerto Ricans in the housing market in Puerto Rico. My articles have been published or are forthcoming in *The Journal of Race, Ethnicity, and Politics* and *Political Behavior*.
+
 
 # Interests
 * American Politics
