@@ -81,6 +81,21 @@
     color: #e8e8e8 !important;
   }
 
+
+   /* Links más legibles en dark mode */
+  a, a:link {
+    color: #8ab4f8 !important;
+  }
+
+  a:visited {
+    color: #c58af9 !important;
+  }
+
+  a:hover, a:focus {
+    color: #a8c7ff !important;
+    text-decoration: underline;
+  }
+   
   /* Estos suelen ser los que la gente pinta sin querer */
   .initial-content,
   .page,
