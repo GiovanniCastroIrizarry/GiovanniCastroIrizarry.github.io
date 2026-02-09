@@ -41,3 +41,32 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* ===== Fix global para dark mode (Safari / prefers-color-scheme) ===== */
+:root { color-scheme: light dark; }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0b0c0f !important;
+    color: #e8e8e8 !important;
+  }
+
+  /* Contenedores típicos de academicpages/minimal-mistakes */
+  .page,
+  .page__content,
+  .archive,
+  .sidebar,
+  .masthead,
+  .footer {
+    background-color: transparent !important;
+    color: inherit !important;
+  }
+
+  /* Texto */
+  p, li, span, div {
+    color: inherit;
+  }
+
+  /* Links */
+  a { color: #8ab4f8; }
+}
