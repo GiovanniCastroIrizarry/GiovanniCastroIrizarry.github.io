@@ -109,3 +109,12 @@
   a { color: #8ab4f8; }
 }
 
+
+@media (prefers-color-scheme: dark) {
+  .page__content a,
+  .archive a,
+  .sidebar a {
+    color: #8ab4f8 !important;
+  }
+}
+
