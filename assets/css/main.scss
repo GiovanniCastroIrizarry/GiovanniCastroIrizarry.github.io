@@ -70,3 +70,27 @@
   /* Links */
   a { color: #8ab4f8; }
 }
+
+
+
+
+/* Fix: fondo claro + texto blanco en dark mode */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: #0b0c0f !important;
+    color: #e8e8e8 !important;
+  }
+
+  /* Estos suelen ser los que la gente pinta sin querer */
+  .initial-content,
+  .page,
+  .page__content,
+  #main,
+  main {
+    background-color: #0b0c0f !important;
+    color: #e8e8e8 !important;
+  }
+
+  a { color: #8ab4f8; }
+}
+
