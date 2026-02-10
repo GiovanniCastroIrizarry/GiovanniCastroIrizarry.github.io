@@ -29,7 +29,7 @@ A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. 
 
 Secret Shopper Analysis Highlights Accessing Mental Healthcare in Puerto Rico is a Challenging Endeavor. (*Under Review*). With Alexis Santos.
 
-A Census Question Modification May Alter the Racial Classification of 27 Million Latinos. *Solo-authored. Revising full manuscript*.
+A Census Question Modification May Alter the Racial Classification of 73 Percent of Latinos. *Solo-authored. Revising full manuscript*.
 
 Leaving the Latino Tag Behind: How Some Latinos are Incorporating into Whiteness. *Solo-authored. Revising full manuscript*.
 
