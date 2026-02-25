@@ -9,7 +9,7 @@ redirect_from:
 <a href="http://castroirizarry.com/cv.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#ffffff; text-decoration:none; border-radius:5px;">Download CV</a>
 # Published Articles
 
-**Castro Irizarry, Giovanni** (2026). <a href="https://doi.org/10.1007/s11109-026-10125-y" target="_blank" style="color: #0000EE;">Latino Racial Classifications and Political Behavior: The Implications of Linked Fate Prioritization.</a>.” *Political Behavior*. (Open Access).
+**Castro Irizarry, Giovanni** (2026). <a href="https://doi.org/10.1007/s11109-026-10125-y" target="_blank" style="color: #0000EE;">Latino Racial Classifications and Political Behavior: The Implications of Linked Fate Prioritization</a>.” *Political Behavior*. (Open Access).
 
 **Castro Irizarry, Giovanni** (2024). <a href="https://doi.org/10.1017/rep.2024.25" target="_blank" style="color: #0000EE;">Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence from a Pre-Registered Audit Experiment</a>.” *The Journal of Race, Ethnicity, and Politics* 9, no. 3: 488–511.
 
