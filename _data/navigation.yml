@@ -19,10 +19,6 @@ main:
   - title: "CV"
     url: http://castroirizarry.com/cv.pdf
     target: _blank
-
-  - title: "Job Market Paper"
-    url: http://castroirizarry.com/JMP.pdf
-    target: _blank
     
   - title: "Contact"
     url: /contact/
