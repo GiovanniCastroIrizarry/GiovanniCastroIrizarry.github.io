@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Giovanni Castro Irizarry"
   pronouns         : #  
-  bio              : "Ph.D Candidate in Political Science"
+  bio              : "PhD Candidate in Political Science"
   employer         : "University of California, Los Angeles"
   uri              : # URL
   email            : "giovannicastro@ucla.edu" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
