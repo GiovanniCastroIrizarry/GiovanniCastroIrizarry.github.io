@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Felicidades
+# Felicidades!
 
 Felicidades por llegar a esta etapa en la que estás a punto de graduarte. Aquí encontrarás un análisis de los datos de tu investigación sobre conocimiento, percepción y conductas de uso de antibióticos en Puerto Rico.
 
@@ -43,15 +43,6 @@ library(broom)
 
 ```{r cargar-datos}
 data_raw <- read_excel("Data limpia 5-7.xlsx", sheet = "Base de Datos Limpia")
-```
-
-# Formato de _p_-values
-
-```{r formato-pvalues}
-# Para que los p-values en la tabla 3 se muestren con dos espacios decimales
-p_fmt <- function(x) {
-  gtsummary::style_number(x, digits = 2)
-}
 ```
 
 # Renombrar variables
@@ -270,7 +261,7 @@ tabla_univariada <- data %>%
 tabla_univariada %>%
   as_gt() %>%
   gt::tab_source_note(
-    gt::md(paste0("**N = ", nrow(data), "**"))
+    gt::md(paste0("**_N_ = ", nrow(data), "**"))
   )
 ```
 
@@ -319,10 +310,10 @@ tabla_bivariada <- data %>%
 tabla_bivariada %>%
   as_gt() %>%
   gt::tab_source_note(
-    gt::md(paste0("**N = ", nrow(data), "**"))
+    gt::md(paste0("**_N_ = ", nrow(data), "**"))
   )
 ```
-# Modelo multivariado
+# Tabla 3: Análisis multivariado
 
 Se usa una regresión logística binaria porque la variable independiente, `conductas_uso`, es binaria:
 
@@ -331,12 +322,9 @@ Se usa una regresión logística binaria porque la variable independiente, `cond
 
 Por eso no se usa una regresión lineal OLS. El modelo estima la asociación entre conocimiento, percepción y características sociodemográficas con la probabilidad de reportar conductas de uso de antibióticos.
 
-```{r tabla-region-conductas}
-# Antes de correr el modelo multivariado, revisé la distribución de conductas_uso por región.
-# Fajardo y Mayagüez tienen cero casos en la categoría "No", lo que produce separación perfecta
-# en la regresión logística. Por eso, la variable región se presenta en las Tablas 1 y 2,
-# pero se excluye del modelo multivariado para evitar estimaciones inestables.
+Antes de correr el modelo multivariado, revisé la distribución de conductas_uso por región Fajardo y Mayagüez tienen cero casos en la categoría "No", lo que produce separación perfecta en la regresión logística. Por eso, la variable región se presenta en las Tablas 1 y 2, pero se excluye del modelo multivariado para evitar estimaciones inestables.
 
+```{r tabla-region-conductas}
 table(data$region_f, data$conductas_uso_f)
 ```
 
@@ -357,62 +345,42 @@ modelo_logit <- glm(
 summary(modelo_logit)
 ```
 
-# Tabla 3: Análisis multivariado
-
-La Tabla 3 presenta los resultados como **odds ratios (OR)**, con errores estándar y p-values. La variable región no se incluye en este modelo debido a separación perfecta en algunas categorías regionales.
+La Tabla 3 presenta los resultados como **odds ratios (OR)**, con errores estándar y _p_-values. La variable región no se incluye en este modelo debido a separación perfecta en algunas categorías regionales.
 
 ```{r tabla-multivariada}
+# Para que los p-values en la tabla 3 se muestren con dos espacios decimales
+p_fmt <- function(x) {gtsummary::style_number(x, digits = 2)}
 tabla_multivariada <- broom::tidy(modelo_logit) %>%
   filter(term != "(Intercept)") %>%
-  mutate(
-    OR = exp(estimate),
-    term = case_when(
-      term == "conoc_mecanismo_correcto_fCorrecta" ~
-        "Conocimiento correcto: Correcta",
-      
-      term == "conoc_resistencia_fParcialmente correcta" ~
-        "Conocimiento resistencia: Parcialmente correcta",
-      term == "conoc_resistencia_fCorrecta" ~
-        "Conocimiento resistencia: Correcta",
-      
-      term == "percepcion_fAlgo preocupado (5-7)" ~
-        "Preocupación RAM: Algo preocupado (5-7)",
-      term == "percepcion_fExtremadamente preocupado (8-10)" ~
+  mutate(OR = exp(estimate),
+    term = case_when(term == "conoc_mecanismo_correcto_fCorrecta" ~ "Conocimiento correcto: Correcta",
+      term == "conoc_resistencia_fParcialmente correcta" ~ "Conocimiento resistencia: Parcialmente correcta",
+      term == "conoc_resistencia_fCorrecta" ~ "Conocimiento resistencia: Correcta",
+      term == "percepcion_fAlgo preocupado (5-7)" ~ "Preocupación RAM: Algo preocupado (5-7)",
+      term == "percepcion_fExtremadamente preocupado (8-10)" ~ 
         "Preocupación RAM: Extremadamente preocupado (8-10)",
-      
       term == "edad_f30-39" ~ "Edad: 30-39",
       term == "edad_f40-49" ~ "Edad: 40-49",
       term == "edad_f50-59" ~ "Edad: 50-59",
       term == "edad_f60-69" ~ "Edad: 60-69",
       term == "edad_f70+"   ~ "Edad: 70+",
-      
       term == "genero_fFemenino" ~ "Género: Femenino",
-      
-      term == "educ_dicoticaBachillerato o más" ~
-        "Educación: Bachillerato o más",
-      
-      term == "orientacion_medico_fSí" ~
-        "Orientación médica recibida: Sí",
-      
-      TRUE ~ term
+      term == "educ_dicoticaBachillerato o más" ~ "Educación: Bachillerato o más",
+      term == "orientacion_medico_fSí" ~ "Orientación médica recibida: Sí",
+      TRUE ~ term), OR_SE = paste0(gtsummary::style_number(OR, digits = 2),
+      "<br>(", gtsummary::style_number(std.error, digits = 2),
+ ")"
     ),
-    OR = gtsummary::style_number(OR, digits = 2),
-    std.error = gtsummary::style_number(std.error, digits = 2),
-    p.value = p_fmt(p.value)
+p.value = p_fmt(p.value)
   ) %>%
-  select(
-    Characteristic = term,
-    OR,
-    `Standard Error` = std.error,
-    `p-value` = p.value
-  ) %>%
+  select(`Variables dependientes` = term, `Odds Ratios (Standard Errors)` = OR_SE, `p-value` = p.value) %>%
   gt() %>%
+  fmt_markdown(columns = `Odds Ratios (Standard Errors)`) %>%
   tab_caption("Tabla 3. Regresión logística multivariada: conductas de uso de antibióticos") %>%
-  tab_source_note(
-    gt::md(paste0("**N = ", nobs(modelo_logit), "**"))
-  )
+  tab_source_note(gt::md(paste0("**_N_ = ", nobs(modelo_logit), "**")))
 
 tabla_multivariada
+
 ```
 
 # Gráfica de coeficientes
@@ -424,40 +392,23 @@ coefplot_data <- broom::tidy(modelo_logit, conf.int = TRUE, exponentiate = TRUE)
   filter(term != "(Intercept)") %>%
   mutate(
     term = case_when(
-      term == "conoc_mecanismo_correcto_fCorrecta" ~
-        "Conocimiento correcto: Correcta",
-      
-      term == "conoc_resistencia_fParcialmente correcta" ~
-        "Conocimiento resistencia: Parcialmente correcta",
-      term == "conoc_resistencia_fCorrecta" ~
-        "Conocimiento resistencia: Correcta",
-      
-      term == "percepcion_fAlgo preocupado (5-7)" ~
-        "Preocupación RAM: Algo preocupado (5-7)",
-      term == "percepcion_fExtremadamente preocupado (8-10)" ~
+      term == "conoc_mecanismo_correcto_fCorrecta" ~ "Conocimiento correcto: Correcta",
+      term == "conoc_resistencia_fParcialmente correcta" ~ "Conocimiento resistencia: Parcialmente correcta",
+      term == "conoc_resistencia_fCorrecta" ~ "Conocimiento resistencia: Correcta",
+      term == "percepcion_fAlgo preocupado (5-7)" ~ "Preocupación RAM: Algo preocupado (5-7)",
+      term == "percepcion_fExtremadamente preocupado (8-10)" ~ 
         "Preocupación RAM: Extremadamente preocupado (8-10)",
-      
       term == "edad_f30-39" ~ "Edad: 30-39",
       term == "edad_f40-49" ~ "Edad: 40-49",
       term == "edad_f50-59" ~ "Edad: 50-59",
       term == "edad_f60-69" ~ "Edad: 60-69",
       term == "edad_f70+"   ~ "Edad: 70+",
-      
       term == "genero_fFemenino" ~ "Género: Femenino",
-      
-      term == "educ_dicoticaBachillerato o más" ~
-        "Educación: Bachillerato o más",
-      
-      term == "orientacion_medico_fSí" ~
-        "Orientación médica recibida: Sí",
-      
-      TRUE ~ term
-    ),
-    
+      term == "educ_dicoticaBachillerato o más" ~ "Educación: Bachillerato o más",
+      term == "orientacion_medico_fSí" ~ "Orientación médica recibida: Sí",
+      TRUE ~ term),
     # Orden manual: igual que Tabla 3
-    term = factor(
-      term,
-      levels = rev(c(
+    term = factor(term, levels = rev(c(
         "Conocimiento correcto: Correcta",
         "Conocimiento resistencia: Parcialmente correcta",
         "Conocimiento resistencia: Correcta",
@@ -474,14 +425,12 @@ coefplot_data <- broom::tidy(modelo_logit, conf.int = TRUE, exponentiate = TRUE)
       ))
     )
   )
-
 coefplot <- ggplot(coefplot_data, aes(x = estimate, y = term)) +
   geom_vline(xintercept = 1, linetype = "dashed") +
   geom_point(size = 2.5) +
   geom_errorbarh(aes(xmin = conf.low, xmax = conf.high), height = 0.2) +
   scale_x_log10() +
-  labs(
-    subtitle = "Odds ratios con intervalos de confianza al 95%",
+  labs(subtitle = "Odds ratios con intervalos de confianza al 95%",
     x = "Odds Ratio (escala logarítmica)",
     y = NULL
   ) +
@@ -515,6 +464,4 @@ ggsave(
 ```
 
 
-Puedes descargar esta gráfica en formato PDF [aquí](https://castroirizarry.com/CDJN.pdf).
-
-Puedes descargar esta gráfica en formato JPEG [aquí](https://castroirizarry.com/CDJN.jpeg).
+Puedes descargar esta gráfica en formato PDF [aquí](https://castroirizarry.com/CDJN.pdf) y en formato JPEG [aquí](https://castroirizarry.com/CDJN.jpeg).
