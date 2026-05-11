@@ -73,23 +73,3 @@
     text-decoration: underline;
   }
 }
-
-/* ===== Fix para foto de perfil cuadrada ===== */
-.author__avatar img {
-  width: 200px !important;
-  height: 200px !important;
-  object-fit: cover;
-  object-position: center top;
-  border-radius: 50%;
-}
-
-/* Dark mode: mantener el mismo tratamiento */
-@media (prefers-color-scheme: dark) {
-  .author__avatar img {
-    width: 200px !important;
-    height: 200px !important;
-    object-fit: cover;
-    object-position: center top;
-    border-radius: 50%;
-  }
-}
