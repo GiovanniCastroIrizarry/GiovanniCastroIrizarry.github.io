@@ -2,12 +2,198 @@
 title: "Conocimiento, percepción y conductas de uso de antibióticos en Puerto Rico"
 subtitle: "Análisis univariado, bivariado y multivariado"
 author: "Cassandra De Jesús Náter"
-date: "`r Sys.Date()`"
+date: "`r format(Sys.Date(), '%d de %B de %Y')`"
 output:
   html_document:
     toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
     number_sections: true
+    theme: flatly
+    highlight: tango
+    code_folding: hide
+    df_print: paged
+    fig_caption: true
+    self_contained: true
+    css: styles.css
 ---
+
+
+
+Código preparado por [Giovanni Castro Irizarry](https://castroirizarry.com/) (giovannicastro\@ucla.edu)
+
+```{=html}
+<style>
+/* === Tipografía general === */
+body {
+  font-family: 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #2c3e50;
+  background-color: #fafafa;
+}
+
+/* === Contenedor principal === */
+.main-container {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border-radius: 8px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* === Título principal === */
+h1.title {
+  color: #1a5490;
+  font-weight: 700;
+  font-size: 2.2em;
+  border-bottom: 4px solid #1a5490;
+  padding-bottom: 12px;
+  margin-bottom: 8px;
+}
+
+h1.subtitle {
+  color: #6c757d;
+  font-weight: 400;
+  font-size: 1.3em;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+/* === Autor y fecha === */
+h4.author, h4.date {
+  color: #495057;
+  font-size: 1em;
+  font-weight: 500;
+  margin: 4px 0;
+}
+
+/* === Encabezados de secciones === */
+h1 {
+  color: #1a5490;
+  font-weight: 600;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 8px;
+  margin-top: 50px;
+}
+
+h2 {
+  color: #2874a6;
+  font-weight: 600;
+  margin-top: 35px;
+}
+
+h3 {
+  color: #5d6d7e;
+  font-weight: 600;
+}
+
+/* === Bloques de código === */
+pre {
+  background-color: #f4f6f8 !important;
+  border-left: 4px solid #1a5490;
+  border-radius: 4px;
+  padding: 14px;
+  font-size: 0.9em;
+}
+
+code {
+  color: #c0392b;
+  background-color: #f8f9fa;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre code {
+  color: #2c3e50;
+  background-color: transparent;
+  padding: 0;
+}
+
+/* === Tabla de contenidos flotante === */
+#TOC {
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  padding: 15px;
+  border-left: 3px solid #1a5490;
+}
+
+#TOC a {
+  color: #2874a6;
+}
+
+#TOC a:hover {
+  color: #1a5490;
+  text-decoration: underline;
+}
+
+/* === Botones de code folding === */
+.btn-default {
+  background-color: #1a5490 !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 4px !important;
+  font-size: 0.85em !important;
+  padding: 4px 10px !important;
+}
+
+.btn-default:hover {
+  background-color: #2874a6 !important;
+}
+
+/* === Enlaces === */
+a {
+  color: #1a5490;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c0392b;
+  text-decoration: underline;
+}
+
+/* === Tablas (gt y gtsummary) === */
+.gt_table {
+  margin: 25px auto !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08) !important;
+  border-radius: 6px !important;
+}
+
+/* === Citas y bloques destacados === */
+blockquote {
+  background-color: #e8f4f8;
+  border-left: 5px solid #1a5490;
+  padding: 12px 18px;
+  margin: 20px 0;
+  color: #2c3e50;
+  font-style: italic;
+}
+
+/* === Listas === */
+ul li, ol li {
+  margin-bottom: 6px;
+}
+
+/* === Figuras === */
+.figure {
+  margin: 30px 0;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 4px;
+}
+</style>
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -26,7 +212,7 @@ Este análisis incluye el proceso completo de limpieza, recodificación, anális
 
 # Descargar este código
 
-Puedes descargar este código [aquí](https://castroirizarry.com/CDJN.Rmd).
+Puedes descargar este código [aquí](https://drive.google.com/file/d/1Eiik1FtEuncnihFHHGWQZc7KcSst6tN3/view?usp=share_link).
 
 # Paquetes
 
