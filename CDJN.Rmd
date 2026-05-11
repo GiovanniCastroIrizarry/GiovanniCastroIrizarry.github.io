@@ -11,9 +11,9 @@ output:
       collapsed: false
       smooth_scroll: true
     number_sections: true
-    theme: flatly
+    theme: spacelab
     highlight: tango
-    code_folding: hide
+    code_folding: show
     df_print: paged
     fig_caption: true
     self_contained: true
