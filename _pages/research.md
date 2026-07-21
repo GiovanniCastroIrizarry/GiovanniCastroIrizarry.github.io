@@ -9,7 +9,10 @@ redirect_from:
 <a href="http://castroirizarry.com/cv.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#ffffff; text-decoration:none; border-radius:5px;">Download CV</a>
 # Published Articles
 
-Alexis Santos-Lozada and **Giovanni Castro-Irizarry** (2026). “Secret Shopper Analysis Highlights that Accessing Psychiatric Healthcare in Puerto Rico is a Challenging Endeavor.” *Community Mental Health Journal*. (Forthcoming).
+Alexis Santos-Lozada and **Giovanni Castro-Irizarry** (2026). <a href="[https://doi.org/10.1007/s11109-026-10125-y](https://doi.org/10.1007/s10597-026-01642-5)" target="_blank" style="color: #0000EE;">Secret Shopper Analysis Highlights that Accessing Psychiatric Healthcare in Puerto Rico is a Challenging Endeavor</a> *Community Mental Health Journal*.
+
+
+
 
 **Giovanni Castro-Irizarry** (2026). <a href="https://doi.org/10.1007/s11109-026-10125-y" target="_blank" style="color: #0000EE;">Latino Racial Classifications and Political Behavior: The Implications of Linked Fate Prioritization</a>.” *Political Behavior*. (Open Access).
 
