@@ -11,9 +11,6 @@ redirect_from:
 
 Alexis Santos-Lozada and **Giovanni Castro-Irizarry** (2026). <a href="[https://doi.org/10.1007/s11109-026-10125-y](https://doi.org/10.1007/s10597-026-01642-5)" target="_blank" style="color: #0000EE;">Secret Shopper Analysis Highlights that Accessing Psychiatric Healthcare in Puerto Rico is a Challenging Endeavor</a> *Community Mental Health Journal*.
 
-
-
-
 **Giovanni Castro-Irizarry** (2026). <a href="https://doi.org/10.1007/s11109-026-10125-y" target="_blank" style="color: #0000EE;">Latino Racial Classifications and Political Behavior: The Implications of Linked Fate Prioritization</a>.” *Political Behavior*. (Open Access).
 
 **Giovanni Castro Irizarry** (2024). <a href="https://doi.org/10.1017/rep.2024.25" target="_blank" style="color: #0000EE;">Discrimination Against Puerto Ricans in the Puerto Rican Housing Market: Evidence from a Pre-Registered Audit Experiment</a>.” *The Journal of Race, Ethnicity, and Politics* 9, no. 3: 488–511.
