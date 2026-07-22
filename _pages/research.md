@@ -25,9 +25,7 @@ Alexis Santos-Lozada and **Giovanni Castro-Irizarry** (2026). "<a href="[https:/
 
 # Working Papers
 
-Secret Shopper Analysis Highlights Accessing Mental Healthcare in Puerto Rico is a Challenging Endeavor. (*Revise and Resubmit*). With Alexis Santos.
-
-A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. (*Under Review*). With Fernando Tormos-Aponte.
+A Holistic Framework for the Study of Electoral and Non-Electoral Mobilization. With Fernando Tormos-Aponte.
 
 A Census Question Modification May Alter the Racial Classification of 73 Percent of Latinos. *Solo-authored. Revising full manuscript*.
 
